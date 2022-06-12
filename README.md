@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></h1>
 
-<h1 align="center"> Hi<img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width=30px>, I’m Meenakshi Sundaram</h1>
+<h1 align="center"> Hi<img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width='30'>, I’m Meenakshi Sundaram</h1>
 
 
 ## 🙋🏻‍♂️About me:
