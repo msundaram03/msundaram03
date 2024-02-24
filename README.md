@@ -5,9 +5,8 @@
 
 ## 🙋🏻‍♂️About me:
 
--👀 I’m interested in programming, Photography and Badminton.
+-👀 I’m interested in Data Analysis and Machine Learning.
 
--🌱 I’m currently learning Web Development
 
 -❤️ I spend my free time watching movies and going long drives.
 
